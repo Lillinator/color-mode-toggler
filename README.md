@@ -1,2 +1,2 @@
-# new-color-toggler
-new color mode toggler for Discourse
+# Color mode toggler
+Color mode toggler for Discourse
